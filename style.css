@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#question, #guess, #result, #score, #highscores {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+}
